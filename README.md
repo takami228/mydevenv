@@ -6,7 +6,8 @@
 - [VS Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
-- [text](url)
+- [Draw.io Desttop](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?gl=JP&hl=ja)
+- [Advanced Rest Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
 - MS Office
 
 ## For Windows
