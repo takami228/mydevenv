@@ -8,6 +8,7 @@
 - [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
 - [Draw.io Desttop](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?gl=JP&hl=ja)
 - [Advanced Rest Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
+- [EditCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ja)
 - MS Office
 
 ## For Windows
