@@ -54,6 +54,7 @@
 - Live Share
 - Output Colorizer
 - Prettier - Code formatter
+- Pretty JSON
 - Rainbow Brackets
 - Rainbow CSV
 - vscode icon
