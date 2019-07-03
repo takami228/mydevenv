@@ -33,6 +33,7 @@
 - [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
 - [HomeBrew](https://brew.sh/index_ja)
 - XCode
+- [Terminal.Monokai](https://github.com/stephenway/monokai.terminal)
 
 ## Chrome Extentions
 
