@@ -9,6 +9,4 @@ export PATH=$PATH:$GOPATH/bin
 
 export PATH=$PATH:$HOME/development/flutter/bin
 
-export JAVA_HOME=`/usr/libexec/java_home -v 11`
-
 eval "$(anyenv init -)"
