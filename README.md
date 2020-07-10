@@ -59,3 +59,7 @@
 - Rainbow Brackets
 - Rainbow CSV
 - vscode icon
+
+## others
+
+- [git-completion](https://github.com/git/git/tree/master/contrib/completion)
