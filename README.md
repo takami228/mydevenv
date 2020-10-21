@@ -44,6 +44,7 @@
 - [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?hl=ja)
 - [Hatena Bookmark](https://chrome.google.com/webstore/detail/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF/dnlfpnhinnjdgmjfpccajboogcjocdla?hl=ja)
 - [Refresh for Twiier](https://chrome.google.com/webstore/detail/refresh-for-twitter/hdpiilkeoldobfomlhipnnfanmgfllmp?hl=ja)
+- [The QR Code Generator](https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb)
 
 ## VSCode Extenions
 
