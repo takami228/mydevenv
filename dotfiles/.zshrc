@@ -1,14 +1,13 @@
 alias ls='ls -G'
 
-if [ -e /usr/local/share/zsh-completions ]; then
-    fpath=(/usr/local/share/zsh-completions $fpath)
-fi
-
-autoload -Uz colors ; colors
-
-setopt correct
-
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+if type brew &>/dev/null; then
+FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+
+autoload -Uz compinit
+compinit
+fi
 
 fpath=(~/.zsh $fpath)
  
