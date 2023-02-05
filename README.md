@@ -8,10 +8,7 @@
 - [Sublime Text](https://www.sublimetext.com/)
 - [IntelliJ](https://www.jetbrains.com/idea/download/)
 - [Google IME](https://www.google.co.jp/ime/)
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Android Studio](https://developer.android.com/studio/install?hl=ja)
-- [Evernote](https://evernote.com/intl/jp)
 - [Slack](https://slack.com/intl/ja-jp/downloads/)
 - [Google Drive](https://www.google.com/intl/ja_ALL/drive/download/)
 - [LINE](https://line.me/ja/download)
@@ -30,14 +27,12 @@
 ## For Mac
 
 - [Alfred](https://www.alfredapp.com/)
-- [Docker for Mac](https://docs.docker.com/docker-for-mac/install/)
 - [HomeBrew](https://brew.sh/index_ja)
 - XCode
 - [Terminal.Monokai](https://github.com/stephenway/monokai.terminal)
 
 ## Chrome Extentions
 
-- [Draw.io Desttop](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?gl=JP&hl=ja)
 - [Advanced Rest Client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
 - [EditCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=ja)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=ja)
